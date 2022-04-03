@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/fabioAlcocer/regEx-form-responsive)
-- Live Site URL: [Live](https://api-github-search.netlify.app/)
+- Live Site URL: [Live](https://form-responsive-regex.netlify.app/)
 
 ## My process
 
